@@ -1,5 +1,7 @@
 # Health Insurance Cost Prediction
 
+> **Scope** · Self-study data science project — published as-is.
+
 ## Project Overview
 This project analyzes a health insurance dataset to predict medical costs based on various customer attributes. The analysis employs multiple regression models to determine which factors most significantly influence insurance charges and which modeling approach provides the most accurate predictions.
 
